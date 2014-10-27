@@ -1,0 +1,22 @@
+{
+  "status": 0,
+  "data": {
+    "surveys": [
+      {
+        "survey_id": "53811304"
+      },
+      {
+        "survey_id": "53679216"
+      },
+      {
+        "survey_id": "53678608"
+      },
+      {
+        "survey_id": "53596127"
+      }
+  
+    ],
+    "page": 1,
+    "page_size": 1000
+  }
+}
